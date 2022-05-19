@@ -6,3 +6,4 @@ leanring and adaptive  systems group tasks
 - Stephen Kamau - CIT-223-021/2018 <br>
 - Wamalwa Dedan Odongo - CIT-223-035/2018 <br>
 - NEVIS ADHIAMBO CIT-223-030/2018 <br>
+- Moses Nyarunda CIT-223-001/2018<br>
